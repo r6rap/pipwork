@@ -3,8 +3,8 @@ package logger
 import (
 	"time"
 
-	"pipwork/internal/db"
-	"pipwork/internal/model"
+	"github.com/r6rap/pipwork/internal/db"
+	"github.com/r6rap/pipwork/internal/model"
 )
 
 func SaveToDB(entry LogEntry) error {

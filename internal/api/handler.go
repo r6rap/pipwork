@@ -3,10 +3,9 @@ package api
 import (
 	"encoding/json"
 	"net/http"
-	// "strconv"
 
-	"pipwork/internal/db"
-	"pipwork/internal/model"
+	"github.com/r6rap/pipwork/internal/db"
+	"github.com/r6rap/pipwork/internal/model"
 
 	"github.com/gorilla/mux"
 )

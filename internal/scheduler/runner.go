@@ -3,11 +3,10 @@ package scheduler
 import (
 	"fmt"
 	"log"
-	"pipwork/internal/checker"
-	"pipwork/internal/db"
-	"pipwork/internal/logger"
-	"pipwork/internal/model"
-	//"strconv"
+	"github.com/r6rap/pipwork/internal/checker"
+	"github.com/r6rap/pipwork/internal/db"
+	"github.com/r6rap/pipwork/internal/logger"
+	"github.com/r6rap/pipwork/internal/model"
 	"time"
 )
 

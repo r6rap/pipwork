@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"pipwork/internal/db"
-	"pipwork/internal/api"
+	"github.com/r6rap/pipwork/internal/db"
+	"github.com/r6rap/pipwork/internal/api"
 	"github.com/gorilla/mux"
 )
 

@@ -8,7 +8,7 @@ import (
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 
-	"pipwork/internal/model"
+	"github.com/r6rap/pipwork/internal/model"
 )
 
 var DB *gorm.DB

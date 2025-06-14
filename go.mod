@@ -1,4 +1,4 @@
-module pipwork
+module github.com/r6rap/pipwork
 
 go 1.23.3
 

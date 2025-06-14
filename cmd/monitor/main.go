@@ -4,9 +4,9 @@ import (
 	"time"
 	"log"
 
-	"pipwork/internal/config"
-	"pipwork/internal/scheduler"
-	"pipwork/internal/db"
+	"github.com/r6rap/pipwork/internal/config"
+	"github.com/r6rap/pipwork/internal/scheduler"
+	"github.com/r6rap/pipwork/internal/db"
 )
 
 func main() {

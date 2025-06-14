@@ -1,8 +1,8 @@
 package config
 
 import (
-	"pipwork/internal/model"
-	"pipwork/internal/db"
+	"github.com/r6rap/pipwork/internal/model"
+	"github.com/r6rap/pipwork/internal/db"
 )
 
 func LoadTargets() ([]model.Target, error) {
